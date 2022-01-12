@@ -1,7 +1,6 @@
 {
   "name": "education",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -23,5 +22,6 @@
   },
   "devDependencies": {
     "prettier": "2.5.1"
-  }
+  },
+  "description": ""
 }
